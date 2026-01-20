@@ -24,7 +24,7 @@ You can play the game here:
 
 - Built with **Unity WebGL**.  
 - Compression **disabled** to ensure compatibility with GitHub Pages.  
-- Optimized for **desktop browsers**; mobile support is not yet implemented.  
+- Not fully Optimized for **desktop browsers**, FullScrean needed, mobile support is not yet implemented.  
 - Recommended browser: **Chrome, Edge, or Firefox**.
 
 ---
