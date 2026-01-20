@@ -20,5 +20,3 @@ You can play the game here:
 - **Current demo is not updated for phone resolutions**, so the game may be unplayable on mobile devices.
 
 ---
-
-## 🗂 Repository Structure
