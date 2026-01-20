@@ -9,7 +9,7 @@ This repository contains the **WebGL build** of the game, playable directly in y
 ## 🎮 Play the Game
 
 You can play the game here:  
-[https://anatolii-shcherbak.github.io/DyplomWork_AnatoliiShcherbak/](https://anatolii-shcherbak.github.io/DyplomWork_AnatoliiShcherbak/)
+[https://anatolii-shcherbak.github.io/DyplomWork_AnatoliiShcherbak/](https://anatolii-shcherbak.github.io/DyplomProjectWork_AnatoliiShcherbak/)
 
 ---
 
