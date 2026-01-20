@@ -20,3 +20,21 @@ You can play the game here:
 - **Current demo is not updated for phone resolutions**, so the game may be unplayable on mobile devices.
 
 ---
+## ⚙️ WebGL Build Notes
+
+- Built with **Unity WebGL**.  
+- Compression **disabled** to ensure compatibility with GitHub Pages.  
+- Optimized for **desktop browsers**; mobile support is not yet implemented.  
+- Recommended browser: **Chrome, Edge, or Firefox**.
+
+---
+
+## 📌 Credits
+
+- Project developed by: **Anatolii Shcherbak**  
+- Student ID: **63570**  
+- Visual Novel created as part of the **Dyplom Work project**.
+
+---
+
+Thank you for checking out the project and playing the demo! 🎮
